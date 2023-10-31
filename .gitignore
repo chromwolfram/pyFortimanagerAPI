@@ -7,3 +7,4 @@ __pycache__
 /dist
 /src/pyFortiManagerAPI.egg-info
 pypi_token
+.env
