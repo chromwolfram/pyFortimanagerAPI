@@ -1,2 +1,0 @@
-import pyFortiManagerAPI
-import json
